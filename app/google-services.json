@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973163800288",
+    "project_id": "asmappchat",
+    "storage_bucket": "asmappchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973163800288:android:978733b511a13944ba9285",
+        "android_client_info": {
+          "package_name": "com.example.asmappchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973163800288-g6gu6drhbn073qud9ddf5m7149uq4vvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUhTK3jFCEefxP4JQ9vOW6LtSI9QtSEzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973163800288-g6gu6drhbn073qud9ddf5m7149uq4vvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
